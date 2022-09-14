@@ -1,0 +1,10 @@
+
+Variables: contenedores con valores que pueden variar o ser modificados
+
+String: se utiliza para albergar palabras que luego se pueden concatenar, es decir sumar de modo que aparezcan una junto a la otra.
+
+Funciones (argumentos, return): es como una maquinita que toma un valor y lo transforma en otra cosa para luego devolverlo.
+
+declaraciones if: se usa para tomar decisiones, se evalúa una operación lógica, si es verdadera se procede de una forma, si es falsa se procede de otra.
+
+Valores Booleanos (true , false): básicamente son los valores que devuelven un resultado verdadero o falso.
